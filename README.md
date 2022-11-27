@@ -4,9 +4,13 @@
 - 💞️ I’m looking to collaborate on Web and Data Projects
 - 📫 AnoshkoAlexey@gmail.com
 ---------------------------------------------------------------------------------------------------
-**My repositories:**
-* Java/Spring/Hibernate 
-  * https://github.com/AnoshkoAlexey/SuperDuperDrive
-* ML/AI
-  * Foundations of Data Science for Machine Learning (Microsoft)
-    (https://learn.microsoft.com/en-us/training/paths/machine-learning-foundations-using-data-science/)
+<h1>My repositories:</h1><br>
+
+<h2>Java/Spring/Hibernate</h2>
+
+<h3>Udacity Full Stack</h3>
+  * SuperDuperDrive https://github.com/AnoshkoAlexey/SuperDuperDrive
+  
+<h2>ML/AI</h2>
+<h3>Foundations of Data Science for Machine Learning (Microsoft)</h3>
+(https://learn.microsoft.com/en-us/training/paths/machine-learning-foundations-using-data-science/)
