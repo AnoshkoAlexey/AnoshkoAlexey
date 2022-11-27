@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @AnoshkoAlexey
-- 👀 I’m interested in AI, ML, Embeded Systems, ASM/C/C++/Python/Bash/HTML/CSS/JavaScript/Java/SQL
-- 🌱 I’m currently learning AI/ML on AWS and also repeat Full Stack Development on Java
-- 💞️ I’m looking to collaborate on Web and Data Projects
-- 📫 AnoshkoAlexey@gmail.com
+- 👋 Hi,
+- 👀 I’m interested in different kinds of IT technologies that include:</br>
+AI/ML, C/C++, Python, Java, SQL, HTML/CSS/JavaScript, DevOps, Embeded Systems, Edge, 5G, ASM</br>
+this list can go on and on</br>
+- 🌱 I’m currently learning AI/ML with Azure and Google Cloud
+- 💞️ I’m looking to collaborate on any AI/ML projects
 ---------------------------------------------------------------------------------------------------
 <h1>My repositories:</h1><br>
 
