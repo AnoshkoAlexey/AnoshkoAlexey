@@ -16,3 +16,5 @@ I’m looking to collaborate on any AI/ML projects</br>
 <h2>ML/AI</h2>
 <h3>Foundations of Data Science for Machine Learning (Microsoft)</h3>
 (https://learn.microsoft.com/en-us/training/paths/machine-learning-foundations-using-data-science/)
+<br><br><br>
+For an expanded catalog of my repositories, please, check https://anoshkoalexey.github.io/
