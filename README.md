@@ -13,6 +13,7 @@ I’m looking to collaborate on any AI/ML projects</br>
 * Web Services and APIs
    * DogRestAPI https://github.com/AnoshkoAlexey/DogRestApi
    * DogGraphQLAPI https://github.com/AnoshkoAlexey/Dog-GraphQL-API
-   * Eureka https://github.com/AnoshkoAlexey/eureka
-  
+   * Eureka
+       * https://github.com/AnoshkoAlexey/eureka
+       * https://github.com/AnoshkoAlexey/items
 <!--For an expanded catalog of my repositories, please, check https://anoshkoalexey.github.io/-->
