@@ -16,4 +16,6 @@ I’m looking to collaborate on any AI/ML projects</br>
    * Eureka
        * https://github.com/AnoshkoAlexey/eureka
        * https://github.com/AnoshkoAlexey/items
+   * Final Project: https://github.com/AnoshkoAlexey/nd035-C2-Web-Services-and-APIs-Exercises-and-Project-Starter
+       
 <!--For an expanded catalog of my repositories, please, check https://anoshkoalexey.github.io/-->
