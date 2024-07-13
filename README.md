@@ -1,6 +1,6 @@
 Hi,</br>
 I’m interested in different kinds of IT technologies that include:</br>
-`AI/ML, C/C++, Python, Java, SQL, HTML/CSS/JavaScript, DevOps, Embedded Systems, Edge, 5G, ASM`</br>
+AI/ML, C/C++, Python, Java, SQL, HTML/CSS/JavaScript, DevOps, Embedded Systems, Edge, 5G, ASM</br>
 this list can go on and on</br>
 I’m currently learning AI/ML with Azure and Google Cloud</br>
 ---------------------------------------------------------------------------------------------------
@@ -21,6 +21,5 @@ I’m currently learning AI/ML with Azure and Google Cloud</br>
    * Eureka
        * https://github.com/AnoshkoAlexey/eureka
        * https://github.com/AnoshkoAlexey/items
-   * Final Project: [Backend System for a Car Website](https://github.com/AnoshkoAlexey/nd035-C2-Web-Services-and-APIs-Exercises-and-Project-Starter)
-       
+   * Final Project: [Backend System for a Car Website](https://github.com/AnoshkoAlexey/nd035-C2-Web-Services-and-APIs-Exercises-and-Project-Starter)       
 <!--For an expanded catalog of my repositories, please, check https://anoshkoalexey.github.io/-->
