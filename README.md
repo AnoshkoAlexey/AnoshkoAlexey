@@ -3,8 +3,6 @@ I’m interested in different kinds of IT technologies that include:</br>
 AI/ML, C/C++, Python, Java, SQL, HTML/CSS/JavaScript, DevOps, Embedded Systems, Edge, 5G, ASM</br>
 this list can go on and on</br>
 I’m currently learning AI/ML with Azure and Google Cloud</br>
-I’m looking to collaborate on any AI/ML projects</br>
-
 ---------------------------------------------------------------------------------------------------
 # My repositories: #
 ## Java/Spring/Hibernate ##
