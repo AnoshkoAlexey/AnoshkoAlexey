@@ -5,7 +5,7 @@ this list can go on and on</br>
 I’m currently learning AI/ML with Azure and Google Cloud</br>
 ---------------------------------------------------------------------------------------------------
 # My repositories: #
-## Java/Spring/Hibernate ##
+## Java/Spring ##
 ### Udacity Java Full Stack Developer ###
 * Java Fundamentals
     * Final Project: [Hotel reservation](https://github.com/AnoshkoAlexey/hotel-reservation/)
